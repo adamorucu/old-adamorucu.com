@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+I am a passionate tech enthusiast. Currently I am a second year data science master's student, studying at Uppsala University. As an avid learner I am seeking to expand my knowledge in the field of data science and machine learning.
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+[cv](/assets/cv.pdf)
