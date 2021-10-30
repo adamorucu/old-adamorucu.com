@@ -31,11 +31,8 @@ url: 'https://adamorucu.com'
 github:
   username: adamorucu             # change to your github username
 
-linkedin:
-  username: adam-orucu
-
-# twitter:
-#   username: twitter_username            # change to your twitter username
+twitter:
+  username: adamorucu
 
 social:
   # Change to your full name.
@@ -48,7 +45,7 @@ social:
     - https://github.com/adamorucu       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/adam-orucu
+    # - https://www.linkedin.com/in/adam-orucu
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -73,7 +70,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: [light]  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
