@@ -23,7 +23,7 @@ title: Adam Orucu                          # the main title
 tagline: Personal website   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Adam's website
+  Adam's website and blog
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://www.adamorucu.com'
@@ -54,7 +54,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 
 
 google_analytics:
-  id: ''              # fill in your Google Analytics ID
+  id: 'G-NNJR177DWT'              # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine

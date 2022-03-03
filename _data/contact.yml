@@ -17,6 +17,11 @@
   url:  'https://www.linkedin.com/in/adam-orucu'                  # Fill with your Linkedin homepage
 
 -
+  type: medium
+  icon: 'fab fa-medium'
+  url:  'https://medium.com/@adamorucu'
+
+-
   type: rss
   icon: 'fas fa-rss'
   noblank: true
