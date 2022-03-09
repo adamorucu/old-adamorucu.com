@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://www.adamorucu.com/posts/tsne/</loc>
+<lastmod>2022-03-09T14:50:40+01:00</lastmod>
+</url>
+<url>
+<loc>https://www.adamorucu.com/tags/</loc>
+<lastmod>2022-03-09T14:52:55+01:00</lastmod>
+</url>
+<url>
+<loc>https://www.adamorucu.com/archives/</loc>
+<lastmod>2022-03-09T14:52:55+01:00</lastmod>
+</url>
+<url>
+<loc>https://www.adamorucu.com/about/</loc>
+<lastmod>2022-03-09T14:52:55+01:00</lastmod>
+</url>
+<url>
+<loc>https://www.adamorucu.com/</loc>
+</url>
+<url>
+<loc>https://www.adamorucu.com/tags/numpy/</loc>
+</url>
+<url>
+<loc>https://www.adamorucu.com/tags/ml/</loc>
+</url>
+<url>
+<loc>https://www.adamorucu.com/assets/cv.pdf</loc>
+<lastmod>2022-03-09T14:52:50+01:00</lastmod>
+</url>
+</urlset>
